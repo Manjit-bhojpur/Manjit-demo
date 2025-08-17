@@ -1,4 +1,4 @@
 # Manjit-demo
 This is my first Git Repository.
 <br>
-Author - Manjit Kumar
+Author - Manjit (Er._Manjit)
